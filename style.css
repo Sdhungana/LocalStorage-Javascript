@@ -1,0 +1,30 @@
+body{
+    background-color: crimson;
+}
+fieldset{
+    width: 50%;
+    margin: 0 auto;
+}
+input{
+    height: 40px;
+    padding: 7px;
+    font-size: 15px;
+    border: none;
+}
+input:hover{
+    background-color: rgb(228, 217, 223);
+    transition: 0.5s;
+    color: black;
+}
+button{
+    height: 58px;
+    padding: 7px;
+}
+
+fieldset {
+    margin-bottom: 20px;
+}
+#output{
+    color: aliceblue;
+    font-size: 25px;
+}
